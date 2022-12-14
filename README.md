@@ -12,8 +12,8 @@
 
 ## Introduction
 > In this project, I would be nalysing the dataset from a virtual online retail store to obtain effective insights that would equip the CEO and CMO of the business make empowering business decision.
-
-### Objective
+>
+>### Objective
 > The main objective of this analysis is to obtain effective insights that would be valuable to the CEO and CMO of the buisness. Thus, at the end of this analysis, I should be providing visually and non-visually supported answers to the questions that would be provided at the **'Questions of interest'** section of this page.
 >
 > These set of questions which are conidered to be likely questions of interest to  be asked by the CEO and CMO of an online retail store in a typical business scenario where the business has been provided sales data sets with informations that are relevant to the CEO and CMO respectively.
