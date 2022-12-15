@@ -11,7 +11,7 @@
 > 5. Conclusion<b/>
 
 ## Introduction
-> <b>In this project, I would be nalysing the dataset from a virtual online retail store to obtain effective insights that would equip the CEO and CMO of the business make empowering business decision.<b/>
+> <b>In this project, I would be nalysing the data set from a virtual online retail store to obtain effective insights that would equip the CEO and CMO of the business make empowering business decision.<b/>
 >
 >### Objective
 > <b>The main objective of this analysis is to obtain effective insights that would be valuable to the CEO and CMO of the buisness. Thus, at the end of this analysis, I should be providing visually and non-visually supported answers to the questions that would be provided at the **'Questions of interest'** section of this page.
@@ -24,7 +24,7 @@
 > The management is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what is working and review what is not working. They would also view metrics based on the demographic information that is available in the data.<b/>
 
 ## The Buisness Scenario
-> <b>From a close review of the data set, taking note of the informations that has been provided and the insights that can be garnered of what is is relevant to both the CEO and the CMO respectively. Below is a set of questions that the CEO and CMO would likely want answers to.<b/>
+> <b>From a close review of the data set, taking note of the informations that has been provided and the insights that can be garnered of what is relevant to both the CEO and the CMO respectively. Below is a set of questions that the CEO and CMO would likely want answers to.<b/>
 > 
 > ### <b>Questions of interest to the CEO
 >* #### Show time series for the revenue of the business for the year 2011 only.
