@@ -1,4 +1,4 @@
-# **Exploratory-Data-Analysis**
+# **Exploratory-Data-Analysis(Online Retail Store)**
 #### **Performing EDA on a dataset obtained from a virtual online retail store**
 
 ### Table of Content
