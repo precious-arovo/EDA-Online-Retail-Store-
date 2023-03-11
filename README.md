@@ -29,8 +29,8 @@
 > ### <b>Questions of interest to the CEO
 >* #### Show time series for the revenue of the business for the year 2011 only.
 >The CEO would like to view the data by looking into the revenue for certain months where there appears to be some         inconsistency in the continuous growth of the revenue generated for that particular month. The analysis will be helpful for the CEO to forecast for the following business year.<b/>
->* #### What is the demand for the business products accross the regions where the business is operational?
->The CEO is interested in knowing which countrys have the greatest demands for the business products, as having the idea of countries with seemingly high demands would ebable the CEO initiate an expansion strategy which would enable the business target these areas and generate more business from them. There would be no need to show the demand data for the United Kingdom in this analysis, as the CEO is more interestd in viewing other countries with expansion opportunities.<b/>
+>* #### What is the demand for the business products across the regions where the business is operational?
+>The CEO is interested in knowing which countrys have the greatest demands for the business products, as having the idea of countries with seemingly high demands would enable the CEO initiate an expansion strategy which would enable the business target these areas and generate more business from them. There would be no need to show the demand data for the United Kingdom in this analysis, as the CEO is more interestd in viewing the demand of other countries with expansion opportunities.<b/>
 > 
 > ### Questions of interest to the CMO
 >* #### Excluding the United kingdom from the analysis, what are the top 10 countries generating the highest revenue?
