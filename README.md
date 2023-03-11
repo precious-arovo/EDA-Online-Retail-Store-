@@ -11,7 +11,7 @@
 > 5. Conclusion<b/>
 
 ## Introduction
-> <b>In this project, I would be nalysing the data set from a virtual online retail store to obtain effective insights that would equip the CEO and CMO of the business make empowering business decision.<b/>
+> <b>In this project, I would be analysing a data set from a virtual online retail store to obtain effective insights that would equip the CEO and CMO of the business in make empowering and informed business decision.<b/>
 >
 >### Objective
 > <b>The main objective of this analysis is to obtain effective insights that would be valuable to the CEO and CMO of the buisness. Thus, at the end of this analysis, I should be providing visually and non-visually supported answers to the questions that would be provided at the **'Questions of interest'** section of this page.
