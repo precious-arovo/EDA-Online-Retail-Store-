@@ -41,5 +41,5 @@
 To achieve the objectives of this project, I did the following:
 > - I obtained the data set from [Tata Data Visualization Virtual Experience Programme](https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654128941410/Online%20Retail.xlsx).
 > - Cleaned the data using Python on Jupyter Notebook, and carried out [CEO]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Exploratory%20Analysis%20and%20Visualizations%20for%20the%20CEO.ipynb) and [CMO]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Exploratory%20Analysis%20and%20Visualizations%20for%20the%20CMO.ipynb) based exploration on the already [cleaned data]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Data%20Cleaning.ipynb).
-> - I carried out data visualization on the cleaned dataset using Power Bi Desktop and then created a report for my visualization PowerPoint report, which could be viewed [here].
+> - I carried out data visualization on the cleaned dataset using Power Bi Desktop and then created a report for my visualization PowerPoint report, which could be viewed [here](https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/Report/Report%20on%20EDA%20for%20Online%20Retail%20Store.pptm).
 ## Conclusion
