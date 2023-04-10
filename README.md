@@ -35,7 +35,7 @@
 >* #### Excluding the United kingdom from the analysis, what are the top 10 countries generating the highest revenue?
 >The CMO is also interested in viewing the quantity sold along with the revenue generated for the top 10 countries generating the highest revenue, excluding The United Kingdom.
 >* #### Who are the top revenue generating customers?
-> The CMO is interested in the visuals that shows the top revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+> The CMO is interested in the visuals that shows the top revenue-generating customers. The CMO wants to target higher revenue-generating customers and ensure that they remain satisfied with their products.
 
 ## Methodology
 
