@@ -7,7 +7,7 @@
 > 2. The Business Background
 > 3. The Business Scenario
 >     - Questions of interest
-> 4. Methodology
+> 4. Methodology and Project Workflow
 > 5. Conclusion<b/>
 
 ## Introduction
@@ -37,6 +37,9 @@
 >* #### Who are the top revenue generating customers?
 > The CMO is interested in the visuals that shows the top revenue-generating customers. The CMO wants to target higher revenue-generating customers and ensure that they remain satisfied with their products.
 
-## Methodology
-
+### Methodology and Project Workflow
+To achieve the objectives of this project, I did the following:
+> - I obtained the data set from [Tata Data Visualization Virtual Experience Programme](https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654128941410/Online%20Retail.xlsx).
+> - Cleaned the data using Python on Jupyter Notebook, and carried out [CEO]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Exploratory%20Analysis%20and%20Visualizations%20for%20the%20CEO.ipynb) and [CMO]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Exploratory%20Analysis%20and%20Visualizations%20for%20the%20CMO.ipynb) based exploration on the already [cleaned data]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Data%20Cleaning.ipynb).
+> - I carried out data visualization on the cleaned dataset using Power Bi Desktop and then created a report for my visualization PowerPoint report, which could be viewed [here].
 ## Conclusion
