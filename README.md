@@ -43,3 +43,18 @@ To achieve the objectives of this project, I did the following:
 > - Cleaned the data using Python on Jupyter Notebook, and carried out [CEO]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Exploratory%20Analysis%20and%20Visualizations%20for%20the%20CEO.ipynb) and [CMO]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Exploratory%20Analysis%20and%20Visualizations%20for%20the%20CMO.ipynb) based exploration on the already [cleaned data]( https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/notebooks/Data%20Cleaning.ipynb).
 > - I carried out data visualization on the cleaned dataset using Power Bi Desktop and then created a report for my visualization PowerPoint report, which could be viewed [here](https://github.com/arovo-ds/EDA-Online-Retail-Store-/blob/main/Report/Report%20on%20EDA%20for%20Online%20Retail%20Store.pptm).
 ## Results
+![image](https://user-images.githubusercontent.com/90056014/230888874-f7797459-b426-4ac7-a27d-73b9fbd25b1b.png)
+
+![image](https://user-images.githubusercontent.com/90056014/230889318-a4bd1bde-b08c-4137-95ec-48754b23fb33.png)
+ 
+![image](https://user-images.githubusercontent.com/90056014/230889466-85c8a823-0dcf-464e-8bbd-8dd89d53d19c.png)
+  
+![image](https://user-images.githubusercontent.com/90056014/230889571-496bc41a-aba4-4daa-828a-de19c684ca2a.png)
+
+![image](https://user-images.githubusercontent.com/90056014/230889723-a243136f-f65b-421b-9e97-88108123e197.png)
+
+![image](https://user-images.githubusercontent.com/90056014/230889805-a16d208a-5f84-4ee2-8b50-cc9db06e1778.png)
+
+
+
+
